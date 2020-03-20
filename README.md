@@ -36,5 +36,7 @@ https://docs.google.com/document/d/1gqQZCy-rV4UjYXB1cllBlSssOAxyQhM5_CWcgJNn5F4/
 https://docs.google.com/spreadsheets/d/1Y59Wla3ryUnkFdNU66Q8Dl6yeSXOZLOLcA5l4gTSJTI/edit?usp=sharing
 
 ## Related repos
-- Animl lambda function - github.com/tnc-ca-geo/animl-lambda
-- Animl platform - https://github.com/tnc-ca-geo/animl
+- Animl base program      http://github.com/tnc-ca-geo/animl-base
+- Animl lambda function   http://github.com/tnc-ca-geo/animl-lambda
+- Animl ML resources      http://github.com/tnc-ca-geo/animl-ml
+- Animl platform          https://github.com/tnc-ca-geo/animl

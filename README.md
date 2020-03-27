@@ -39,4 +39,5 @@ https://docs.google.com/spreadsheets/d/1Y59Wla3ryUnkFdNU66Q8Dl6yeSXOZLOLcA5l4gTS
 - Animl base program      http://github.com/tnc-ca-geo/animl-base
 - Animl lambda function   http://github.com/tnc-ca-geo/animl-lambda
 - Animl ML resources      http://github.com/tnc-ca-geo/animl-ml
+- Animl desktop app       https://github.com/tnc-ca-geo/animl-desktop
 - Animl platform          https://github.com/tnc-ca-geo/animl
